@@ -1,7 +1,9 @@
 # Hi there, I'm Brian 👋
 
-💻Informatics competitor (currently USACO gold division) \n
-⚙️Software development \n
+💻Informatics competitor (currently USACO gold division) 
+
+⚙️Software development 
+
 🤖FRC Technician/developer/human player of Team 8214 Cyber Unicorn
 
 I've still got a lot to learn, but it's always good to be involved in something lol 🤣
