@@ -4,7 +4,7 @@
 
   ⚙️Software development 
 
-  🤖FRC Technician/developer/human player of Team 8214 Cyber Unicorn  
+  🤖FRC technician/developer/human player of Team 8214 Cyber Unicorn  
 
 I've still got a lot to learn, but it's always good to be involved in something lol 🤣
 
